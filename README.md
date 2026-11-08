@@ -1,4 +1,4 @@
-# Semi-Supervised Classification with Graph Convolutional Networks (GCNs)
+# Evaluating GCN Neighborhood Aggregation Under Partial Observability: From Citation Graphs to Multi-Agent Reinforcement Learning
 
 ## Course
 * **Deep Learning:** [DS677]
