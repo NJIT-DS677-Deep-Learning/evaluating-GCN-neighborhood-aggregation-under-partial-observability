@@ -27,5 +27,5 @@
 
 ## Benchmarks & References
 * **Paper:** [Semi-Supervised Classification with Graph Convolutional Networks (Kipf & Welling, ICLR 2017)](https://arxiv.org/abs/1609.02907)
-* **Dataset (Cora):** [PyTorch Geometric Planetoid Split](https://pytorch-geometric.readthedocs.io/en/latest/generated/torch_geometric.datasets.Planetoid.html)
+* **Dataset (Cora):** [LINQS Cora Citation Network](https://linqs.org/datasets/#cora) (loaded with the standard split via [PyTorch Geometric `Planetoid`](https://pytorch-geometric.readthedocs.io/en/latest/generated/torch_geometric.datasets.Planetoid.html))
 * **Environment (MARL):** [VMAS: Vectorized Multi-Agent Simulator](https://github.com/proroklab/VectorizedMultiAgentSimulator)
